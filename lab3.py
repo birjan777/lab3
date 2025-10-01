@@ -1,4 +1,3 @@
-# lab3
 # 1. Класс со строкой
 class MyString:
     def __init__(self):
